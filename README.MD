@@ -1,1 +1,1 @@
-#AZ303-Azure Architect Technologies Preparation Details
+# Certification: AZ303-Azure Architect Technologies Preparation
